@@ -25,9 +25,9 @@ This project serves as a testament to my dedication and passion for iOS developm
 
 ## Screenshots
 
-![registraion-view](screenShots/registraion-view.png)
-![sign-in-view](screenShots/sign-in-view.png)
-![profile-view](screenShots/profile-view.png)
+![registraion-view](screenShots/readme/registraion-view.png)
+![sign-in-view](screenShots/readme/sign-in-view.png)
+![profile-view](screenShots/readme/profile-view.png)
 
 ##  ☎ Contact
 
